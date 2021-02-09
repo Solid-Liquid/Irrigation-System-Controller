@@ -1,8 +1,8 @@
-# Irrigation-PI-Code
+# Irrigation-System-Controller
 2019 Senior Design Project, CSUN
 Irrigation System Project, Hardware Team
 
-Hardware Team Members: Ian Hinze, Marvin Mallari, Christian Martinez, Daniel Stein, Froilan Campos, Varun Ganesh
+Team Members: Ian Hinze, Marvin Mallari, Christian Martinez, Daniel Stein, Froilan Campos, Varun Ganesh
 
 Award-winning team project with the goal of creating a low-energy, low-cost irrigation system controller
 with Raspberry PI and STM boards. The award was for best computer science presentation at the
